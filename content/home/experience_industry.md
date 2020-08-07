@@ -1,7 +1,9 @@
-widget = "experience in industry"
+widget = "experience"
 headless = true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
+
+title:Experience in industry 
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
