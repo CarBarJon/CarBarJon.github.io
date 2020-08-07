@@ -78,7 +78,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Regutools, an R package for RegulonDB"
 
-title = "Experience"
+#title = "Experience"
 subtitle = "Other work experience"  
   
   [[experience]]
