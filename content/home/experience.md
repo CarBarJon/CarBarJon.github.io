@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Guanajuato, Mexico"
   date_start ="2018-10-01"
-  date_end = "2020-05-31"
+  date_end = ""
   description = """
   Responsibilities include:
   
@@ -65,7 +65,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Cuernavaca, Mexico"
   date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_end = "2016-31-12"
   description = "Phenotype screening and genotyping of Stenotrophomonas CSM2 bacteria for their ability to biodegrade  ethidium bromide"
 
 
@@ -75,7 +75,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Cuernavaca, Mexico"
   date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_end = "2016-31-12"
   description = "Regutools, an R package for RegulonDB"
 
 subtitle = "Other work experience"  
@@ -86,7 +86,7 @@ subtitle = "Other work experience"
   company_url = ""
   location = "Mexico City, Mexico"
   date_start = "2017-11-01"
-  date_end = "2020-02-31"
+  date_end = "2020-31-02"
   description = "Personalized genetic test : Production of scientific content and bioinformatic analysis"
   
    [[experience]]
@@ -95,7 +95,7 @@ subtitle = "Other work experience"
   company_url = ""
   location = "Mexico City, Mexico"
   date_start = "2017-06-01"
-  date_end = "2017-12-31"
+  date_end = "2017-31-12"
   description = "Creation of a scientific note in the topic: Genetic Editing in agriculture "
   
   [[experience]]
