@@ -39,4 +39,13 @@ date_format = "Jan 2006"
   date_end = "2016-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
+[[experience]]
+  title = "Research Intern"
+  company = "Stanford School of Medicine"
+  company_url = ""
+  location = "California"
+  date_start = "2020-03-01"
+  date_end = "2020-05-31"
+  description = """ Analyze identity-by-descent (IBD) segments to determine patterns of migrations,  design a pipeline to estimate the phase errors, and merge ancient and present-day genotypes in an ancestry specific way."""
+  
 +++
