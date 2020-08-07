@@ -79,8 +79,7 @@ date_format = "Jan 2006"
   date_end = "2016-12-31"
   description = "Regutools, an R package for RegulonDB"
 
-subtitle = "Other work experience"  
-  
+
   [[experience]]
   title = "Data Analysts"
   company = "Somos, ancestry genetic testing company  "
@@ -113,5 +112,6 @@ I  was a TA for 3 different courses between August 2017 and December 2018:
   * Bioinformatics: 15 students
   * Human Genomics: 15 students 
   * Introduction to Bioinformatics: 18 students  
+  
   """
 +++
