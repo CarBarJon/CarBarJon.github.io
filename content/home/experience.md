@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Guanajuato, Mexico"
   date_start ="2018-10-01"
-  date_end = ""
+  date_end = "2020-05-31"
   description = """
   Responsibilities include:
   
@@ -38,7 +38,6 @@ date_format = "Jan 2006"
   date_start = "2020-03-01"
   date_end = "2020-05-31"
   description = """Analyze identity-by-descent (IBD) segments to determine patterns of migrations,  design a pipeline to estimate the phase errors, and merge ancient and present-day genotypes in an ancestry specific way"""
-
 
 [[experience]]
   title = "Research Intern"
