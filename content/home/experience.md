@@ -86,7 +86,7 @@ subtitle = "Other work experience"
   company_url = ""
   location = "Mexico City, Mexico"
   date_start = "2017-11-01"
-  date_end = "2020-31-02"
+  date_end = "2020-28-02"
   description = "Personalized genetic test : Production of scientific content and bioinformatic analysis"
   
    [[experience]]
