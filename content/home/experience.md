@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "California"
   date_start = "2020-03-01"
-  date_end = ""
+  date_end = "2020-05-01"
   description = """Analyze identity-by-descent (IBD) segments to determine patterns of migrations,  design a pipeline to estimate the phase errors, and merge ancient and present-day genotypes in an ancestry specific way"""
 
 [[experience]]
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Leipzig, Germany"
   date_start = "2018-02-01"
-  date_end = ""
+  date_end = "2018-07-01"
   description = """Bantu migration and interaction with autochthonous populations of South Africa"""
   
   
@@ -55,7 +55,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Bath, United Kingdom"
   date_start = "2016-01-01"
-  date_end = ""
+  date_end = "2016-03-01"
   description = """Role of TotC in regulating the immune anticipation response in flies"""
   
   
@@ -65,7 +65,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Cuernavaca, Mexico"
   date_start = "2016-01-01"
-  date_end = ""
+  date_end = "2016-12-01"
   description = "Phenotype screening and genotyping of Stenotrophomonas CSM2 bacteria for their ability to biodegrade  ethidium bromide"
 
 
@@ -75,8 +75,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Cuernavaca, Mexico"
   date_start = "2016-01-01"
-  date_end = ""
+  date_end = "2016-12-01"
   description = "Regutools, an R package for RegulonDB"
-
 
 +++

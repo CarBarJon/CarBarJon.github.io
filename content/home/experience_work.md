@@ -14,7 +14,7 @@ company = "Somos, ancestry genetic testing company  "
 company_url = ""
 location = "Mexico City, Mexico"
 date_start = "2017-11-01"
-date_end = ""
+date_end = "2018-02-01"
 description = "Personalized genetic test : Production of scientific content and bioinformatic analysis"
 
 [[experience]]
@@ -23,7 +23,7 @@ company = "Science & Technology Office for the Mexican Congress (INCyTU)  "
 company_url = ""
 location = "Mexico City, Mexico"
 date_start = "2017-06-01"
-date_end = ""
+date_end = "2017-12-01"
 description = "Creation of a scientific note in the topic: Genetic Editing in agriculture "
 
 [[experience]]
@@ -31,8 +31,8 @@ title = "Teaching Assistant"
 company = "UNAM"
 company_url = ""
 location = "Cuernavaca, Mexico"
-date_start = "2017-11-01"
-date_end = ""
+date_start = "2017-06-01"
+date_end = "2018-12-01"
 description = """
   As a teaching assistant, my responsibilities included helping with course preparation, assignment and exam marking, and delivery of some sections of the course.
 I  was a TA for 3 different courses between August 2017 and December 2018:
