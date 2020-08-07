@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Intern"
-  company = "National Laboratory of Genomics for Biodiversity"
+  company = "National Laboratory of Genomics for Biodiversity Supervisor: Prof. Andrés Moreno"
   company_url = ""
   location = "Guanajuato, Mexico"
   date_start = "2018-10-01"
@@ -32,16 +32,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Intern"
-  company = "Stanford School of Medicine"
-  company_url = ""
-  location = "California"
-  date_start = "2020-03-01"
-  date_end = "2020-05-31"
-  description = """Analyze identity-by-descent (IBD) segments to determine patterns of migrations,  design a pipeline to estimate the phase errors, and merge ancient and present-day genotypes in an ancestry specific way"""
-
-[[experience]]
-  title = "Research Intern"
-  company = "Stanford School of Medicine"
+  company = "Stanford School of Medicine Supervisor: Dr.Alexander Ioannidis"
   company_url = ""
   location = "California"
   date_start = "2020-03-01"
@@ -51,11 +42,42 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Intern"
-  company = "Stanford School of Medicine"
+  company = "Max Planck Institute for Evolutionary Anthropology Supervisor: Prof. Mark Stoneking "
   company_url = ""
-  location = "California"
-  date_start = "2020-03-01"
-  date_end = "2020-05-31"
-  description = """ Analyze identity-by-descent (IBD) segments to determine patterns of migrations,  design a pipeline to estimate the phase errors, and merge ancient and present-day genotypes in an ancestry specific way."""
+  location = "Leipzig, Germany"
+  date_start = "2018-02-01"
+  date_end = "2018-07-01"
+  description = """Bantu migration and interaction with autochthonous populations of South Africa"""
+  
+  
+[[experience]]
+  title = "Research Intern"
+  company = "University of Bath Supervisor: Prof. Nicholas Priest"
+  company_url = ""
+  location = "Bath, United Kingdom"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Role of TotC in regulating the immune anticipation response in flies"""
+  
+  
+  [[experience]]
+  title = "Research Intern"
+  company = "Universidad Nacional Autónoma de México Supervisor: Prof. Miguel Angel Cevallos"
+  company_url = ""
+  location = "Cuernavaca, Mexico"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = "Phenotype screening and genotyping of Stenotrophomonas CSM2 bacteria for their ability to biodegrade  ethidium bromide"
+
+
+[[experience]]
+  title = "Research Intern"
+  company = "Universidad Nacional Autónoma de México Supervisor: Prof. Julio Collado-Vides "
+  company_url = ""
+  location = "Cuernavaca, Mexico"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = "Regutools, an R package for RegulonDB"
+
   
 +++
