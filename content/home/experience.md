@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "California"
   date_start = "2020-03-01"
-  date_end = "2020-05-31"
+  date_end = ""
   description = """Analyze identity-by-descent (IBD) segments to determine patterns of migrations,  design a pipeline to estimate the phase errors, and merge ancient and present-day genotypes in an ancestry specific way"""
 
 [[experience]]
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Leipzig, Germany"
   date_start = "2018-02-01"
-  date_end = "2018-07-01"
+  date_end = ""
   description = """Bantu migration and interaction with autochthonous populations of South Africa"""
   
   
@@ -55,7 +55,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Bath, United Kingdom"
   date_start = "2016-01-01"
-  date_end = "2016-12-03"
+  date_end = ""
   description = """Role of TotC in regulating the immune anticipation response in flies"""
   
   
@@ -65,7 +65,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Cuernavaca, Mexico"
   date_start = "2016-01-01"
-  date_end = "2016-31-12"
+  date_end = ""
   description = "Phenotype screening and genotyping of Stenotrophomonas CSM2 bacteria for their ability to biodegrade  ethidium bromide"
 
 
@@ -75,7 +75,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Cuernavaca, Mexico"
   date_start = "2016-01-01"
-  date_end = "2016-31-12"
+  date_end = ""
   description = "Regutools, an R package for RegulonDB"
 
 subtitle = "Other work experience"  
@@ -86,7 +86,7 @@ subtitle = "Other work experience"
   company_url = ""
   location = "Mexico City, Mexico"
   date_start = "2017-11-01"
-  date_end = "2020-28-02"
+  date_end = ""
   description = "Personalized genetic test : Production of scientific content and bioinformatic analysis"
   
    [[experience]]
@@ -95,7 +95,7 @@ subtitle = "Other work experience"
   company_url = ""
   location = "Mexico City, Mexico"
   date_start = "2017-06-01"
-  date_end = "2017-31-12"
+  date_end = ""
   description = "Creation of a scientific note in the topic: Genetic Editing in agriculture "
   
   [[experience]]
@@ -104,7 +104,7 @@ subtitle = "Other work experience"
   company_url = ""
   location = "Cuernavaca, Mexico"
   date_start = "2017-11-01"
-  date_end = "2016-02-01"
+  date_end = ""
   description = """
   As a teaching assistant, my responsibilities included helping with course preparation, assignment and exam marking, and delivery of some sections of the course. 
 I  was a TA for 3 different courses between August 2017 and December 2018:
