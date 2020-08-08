@@ -37,9 +37,14 @@ subtitle = ""
   name = "Genomics"
   
 [[feature]]
-  icon = "dna"
+  icon = "discourse"
+  icon_pack = "fab"
+  name = "Science communication"  
+  
+[[feature]]
+  icon = "laptop-code"
   icon_pack = "fas"
-  name = "Genomics"  
+  name = "Bioinformatics"    
 
 
 # Uncomment to use emoji icons.
