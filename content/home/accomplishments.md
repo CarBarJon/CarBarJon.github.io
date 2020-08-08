@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Software"
 subtitle = ""
 
 # Date format
@@ -19,14 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
+  organization = "bioconductor package"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  title = "regutools: an R package for data extraction from RegulonDBg"
+  url = "http://www.bioconductor.org/packages/regutools"
+  date_start = "2020"
   date_end = ""
-  description = ""
+  description = "Chávez J, Barberena-Jonas C, Sotelo-Fonseca JE, Alquicira-Hernandez J, Salgado H, Collado-Torres L, Reyes A  The goal of regutools is to provide an R interface for extracting and processing data from RegulonDB. This package was created as a collaboration by members of the Community of Bioinformatics Software Developers (CDSB in Spanish). "
 
 [[item]]
   organization = "edX"
