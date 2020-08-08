@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Guanajuato, Mexico"
   date_start ="2018-10-01"
   date_end = ""
-  """
+
 
 [[experience]]
   title = "Research Intern"
