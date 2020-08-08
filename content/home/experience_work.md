@@ -20,7 +20,7 @@ description = "Personalized genetic test : Production of scientific content and 
 [[experience]]
 title = "Analyst"
 company = "Science & Technology Office for the Mexican Congress (INCyTU)  "
-company_url = ""
+company_url = "http://foroconsultivo.org.mx/INCyTU/documentos/Completa/INCYTU_18-017.pdf"
 location = "Mexico City, Mexico"
 date_start = "2017-06-01"
 date_end = "2017-12-01"

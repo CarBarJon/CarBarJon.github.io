@@ -20,7 +20,7 @@ date_format = "2006"
 
 [[item]]
   organization = "Chávez J, Barberena-Jonas C, Sotelo-Fonseca JE, Alquicira-Hernandez J, Salgado H, Collado-Torres L, Reyes A"
-  title = "regutools: an R package for data extraction from RegulonDBg"
+  title = "regutools: an R package for data extraction from RegulonDB"
   url = "https://github.com/comunidadbioinfo/regutools"
   date_start = "2020-07-01"
   date_end = ""

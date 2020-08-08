@@ -24,10 +24,6 @@ date_format = "Jan 2006"
   location = "Guanajuato, Mexico"
   date_start ="2018-10-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
- Designed and performed statistical analyses; including quality control of SNP array data, characterized genetic variants (SNPs), and performed admixture and dating analyses
   """
 
 [[experience]]
@@ -37,7 +33,6 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2020-03-01"
   date_end = "2020-05-01"
-  description = """Analyze identity-by-descent (IBD) segments to determine patterns of migrations,  design a pipeline to estimate the phase errors, and merge ancient and present-day genotypes in an ancestry specific way"""
 
 [[experience]]
   title = "Research Intern"
@@ -46,9 +41,7 @@ date_format = "Jan 2006"
   location = "Leipzig, Germany"
   date_start = "2018-02-01"
   date_end = "2018-07-01"
-  description = """Bantu migration and interaction with autochthonous populations of South Africa"""
-  
-  
+
 [[experience]]
   title = "Research Intern"
   company = "University of Bath Supervisor: Prof. Nicholas Priest"
@@ -56,9 +49,7 @@ date_format = "Jan 2006"
   location = "Bath, United Kingdom"
   date_start = "2016-01-01"
   date_end = "2016-03-01"
-  description = """Role of TotC in regulating the immune anticipation response in flies"""
-  
-  
+
   [[experience]]
   title = "Research Intern"
   company = "Universidad Nacional Autónoma de México Supervisor: Prof. Miguel Angel Cevallos"
@@ -66,7 +57,6 @@ date_format = "Jan 2006"
   location = "Cuernavaca, Mexico"
   date_start = "2016-01-01"
   date_end = "2016-12-01"
-  description = "Phenotype screening and genotyping of Stenotrophomonas CSM2 bacteria for their ability to biodegrade  ethidium bromide"
 
 
 [[experience]]
@@ -76,6 +66,5 @@ date_format = "Jan 2006"
   location = "Cuernavaca, Mexico"
   date_start = "2016-01-01"
   date_end = "2016-12-01"
-  description = "Regutools, an R package for RegulonDB"
 
 +++
