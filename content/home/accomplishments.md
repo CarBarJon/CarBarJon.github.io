@@ -27,23 +27,11 @@ date_format = "2006"
   description = "The goal of regutools is to provide an R interface for extracting and processing data from RegulonDB. This package was created as a collaboration by members of the Community of Bioinformatics Software Developers (CDSB in Spanish). "
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "GRY : Algoritmo de inferencia genética de haplogrupos paternos basada en polimorfismos del cromosoma Y"
+  title = "Barberena-Jonas, C. Quinto-Cortés, C. Moreno-Estrada, A."
+  date_start = "2019-03-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Programa de computación registrado en el Registro  Público de Derechos de Autor"
   
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
 
 +++
