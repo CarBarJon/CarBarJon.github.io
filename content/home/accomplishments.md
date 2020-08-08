@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -19,13 +19,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "bioconductor package"
-  organization_url = "https://www.coursera.org"
+  organization = "Chávez J, Barberena-Jonas C, Sotelo-Fonseca JE, Alquicira-Hernandez J, Salgado H, Collado-Torres L, Reyes A"
   title = "regutools: an R package for data extraction from RegulonDBg"
-  url = "http://www.bioconductor.org/packages/regutools"
+  url = "https://github.com/comunidadbioinfo/regutools"
   date_start = "2020-07-01"
   date_end = ""
-  description = "Chávez J, Barberena-Jonas C, Sotelo-Fonseca JE, Alquicira-Hernandez J, Salgado H, Collado-Torres L, Reyes A  The goal of regutools is to provide an R interface for extracting and processing data from RegulonDB. This package was created as a collaboration by members of the Community of Bioinformatics Software Developers (CDSB in Spanish). "
+  description = "The goal of regutools is to provide an R interface for extracting and processing data from RegulonDB. This package was created as a collaboration by members of the Community of Bioinformatics Software Developers (CDSB in Spanish). "
 
 [[item]]
   organization = "edX"
