@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
-- name: "Stanford University"
-  url: ""
+- name: "MorenoLab"
+  url: "morenolab.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a genome scientist with an interest in investigating biological, evolutionary, and medical questions using computational and statistical methods from population genetics and genetic epidemiology
