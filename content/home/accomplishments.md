@@ -27,8 +27,8 @@ date_format = "2006"
   description = "The goal of regutools is to provide an R interface for extracting and processing data from RegulonDB. This package was created as a collaboration by members of the Community of Bioinformatics Software Developers (CDSB in Spanish). "
 
 [[item]]
-  organization = "GRY : Algoritmo de inferencia genética de haplogrupos paternos basada en polimorfismos del cromosoma Y"
-  title = "Barberena-Jonas, C. Quinto-Cortés, C. Moreno-Estrada, A."
+  organization = "Barberena-Jonas, C. Quinto-Cortés, C. Moreno-Estrada, A."
+  title = "GRY : Algoritmo de inferencia genética de haplogrupos paternos basada en polimorfismos del cromosoma Y"
   date_start = "2019-03-01"
   date_end = ""
   description = "Programa de computación registrado en el Registro  Público de Derechos de Autor"
